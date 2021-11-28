@@ -1,0 +1,9 @@
+.i-color{
+    color:rgb(0, 255, 166);
+    font-weight: 700;
+}
+.header-section{
+    display: flex;
+    margin-top: 100px;
+
+}

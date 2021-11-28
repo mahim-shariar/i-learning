@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "programming Learning for Beginners",
+      "price": 30,
+      "perlesson": " price per lesson",
+      "about": "Our best programming course for starter level.",
+      "img": "https://media.istockphoto.com/photos/rear-view-of-college-student-raising-her-hand-in-amphitheater-picture-id1190548731?k=20&m=1190548731&s=612x612&w=0&h=MyfrTmbTEbzxIdbvDyAFXEEXJ26Sdm2kIo6f9SHIUtw="
+    },
+    {
+      "id": 2,
+      "name": "Web developer Learning for children ",
+      "price": 20,
+      "perlesson": "price per lesson.",
+      "about": "Easy-to-learn programming course for children.",
+      "img": "https://images.unsplash.com/photo-1628243426757-b092ba839ff9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGVhcm5pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Coding learning for Business",
+      "price": 27,
+      "perlesson": " price per lesson",
+      "about": "Business coding course designed for managers",
+      "img": "https://d3rw207pwvlq3a.cloudfront.net/attachments/000/111/430/original/windows-C6T6vr1sQI0-unsplash%281%29.jpg?1588200128"
+    },
+    {
+      "id": 4,
+      "name": "Online Zoom meating Learning",
+      "price": 40,
+      "perlesson": " price per lesson",
+      "about": "Perfect if you prefer distance education..",
+      "img": "https://thumbs.dreamstime.com/b/learning-something-new-team-young-business-people-works-their-project-night-time-office-165957938.jpg"
+    }
+]
